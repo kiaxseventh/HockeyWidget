@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.kiax.widgethockey.widget_hockey">
+    package="com.kiax.hockeywidget">
    <application
-        android:label="widget_hockey"
+        android:label="hockeywidget"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

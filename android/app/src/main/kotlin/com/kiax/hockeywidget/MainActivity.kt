@@ -1,4 +1,4 @@
-package com.kiax.widgethockey.widget_hockey
+package com.kiax.hockeywidget
 
 import io.flutter.embedding.android.FlutterActivity
 

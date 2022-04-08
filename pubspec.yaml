@@ -1,5 +1,5 @@
-name: widget_hockey
-description: A new Flutter project.
+name: hockeywidget
+description: a simple flutter project that moves widgets like air hockey with swapping on screen.
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
